@@ -1,0 +1,12 @@
+C:\Users\$ARVARBEK\Desktop\TimeFromInternet\TimeFromInternet\bin\Debug\TimeFromInternet.exe.config
+C:\Users\$ARVARBEK\Desktop\TimeFromInternet\TimeFromInternet\bin\Debug\TimeFromInternet.exe
+C:\Users\$ARVARBEK\Desktop\TimeFromInternet\TimeFromInternet\bin\Debug\TimeFromInternet.pdb
+C:\Users\$ARVARBEK\Desktop\TimeFromInternet\TimeFromInternet\obj\Debug\TimeFromInternet.csprojResolveAssemblyReference.cache
+C:\Users\$ARVARBEK\Desktop\TimeFromInternet\TimeFromInternet\obj\Debug\TimeFromInternet.Form1.resources
+C:\Users\$ARVARBEK\Desktop\TimeFromInternet\TimeFromInternet\obj\Debug\TimeFromInternet.Properties.Resources.resources
+C:\Users\$ARVARBEK\Desktop\TimeFromInternet\TimeFromInternet\obj\Debug\TimeFromInternet.csproj.GenerateResource.Cache
+C:\Users\$ARVARBEK\Desktop\TimeFromInternet\TimeFromInternet\obj\Debug\TimeFromInternet.exe
+C:\Users\$ARVARBEK\Desktop\TimeFromInternet\TimeFromInternet\obj\Debug\TimeFromInternet.pdb
+D:\Shaxsiy programmalar\Programma\Visual Studio\TimeFromInternet\TimeFromInternet\bin\Debug\TimeFromInternet.exe.config
+D:\Shaxsiy programmalar\Programma\Visual Studio\TimeFromInternet\TimeFromInternet\obj\Debug\TimeFromInternet.exe
+D:\Shaxsiy programmalar\Programma\Visual Studio\TimeFromInternet\TimeFromInternet\obj\Debug\TimeFromInternet.pdb
